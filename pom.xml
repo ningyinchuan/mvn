@@ -30,7 +30,7 @@
         <dependency>
             <groupId>org.redisson</groupId>
             <artifactId>redisson</artifactId>
-            <version>3.20.0</version>
+            <version>3.22.0</version>
         </dependency>
 
         <dependency>
@@ -111,19 +111,19 @@
         <dependency>
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-core</artifactId>
-            <version>5.8.18</version>
+            <version>5.8.24</version>
         </dependency>
 
         <dependency>
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-http</artifactId>
-            <version>5.8.18</version>
+            <version>5.8.24</version>
         </dependency>
 
         <dependency>
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-poi</artifactId>
-            <version>5.8.18</version>
+            <version>5.8.24</version>
         </dependency>
 
         <dependency>
@@ -212,7 +212,7 @@
         <dependency>
             <groupId>com.aliyun.oss</groupId>
             <artifactId>aliyun-sdk-oss</artifactId>
-            <version>3.16.1</version>
+            <version>3.16.3</version>
         </dependency>
 
         <dependency>
